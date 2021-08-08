@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on API Automation 
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 📫 How to reach me: https://www.linkedin.com/in/krishna-pradeep-kumar-kadarla/
+- 📫 My [LinkedIn](https://www.linkedin.com/in/krishna-pradeep-kumar-kadarla/) profile
 - 😄 Pronouns: He/Him 
 
 
