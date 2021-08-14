@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Krishna Pradeep, software test engineer with cross functionl skills towards devOps.Focused learner with consistency.Trying to be a full stack QA automation engineer
+### I'm Krishna Pradeep, Test Automation engineer with cross functionl skills.Focused learner with consistency.Trying to be a full stack QA automation engineer
 
 <!--
 **kpkk/kpkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
